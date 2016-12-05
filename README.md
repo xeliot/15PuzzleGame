@@ -1,5 +1,5 @@
 # 15PuzzleGame
-This is a python implementation of the 15 puzzle game
+This is a python implementation of the 15 puzzle game. This program includes functionality to play the game on your IDLE as well as a implementation of a breadth-first-search to solve the puzzle autonomously.
 
 ### Quick Start
 
