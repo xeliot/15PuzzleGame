@@ -5,6 +5,8 @@ This is a python implementation of the 15 puzzle game. This program includes fun
 
 What is the 15 Puzzle Game?
 https://en.wikipedia.org/wiki/15_puzzle
+Play first.
+http://migo.sixbit.org/puzzles/fifteen/
 
 ### Blog
 
